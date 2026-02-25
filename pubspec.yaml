@@ -12,8 +12,7 @@ dependencies:
   flutter_web_plugins:
     sdk: flutter
   web: ^1.0.0
-  srt_dart:
-    path: ../srt_dart
+  srt_dart: ^1.0.0
 
 dev_dependencies:
   flutter_test:
@@ -38,19 +37,10 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.example.srt_flutter_libs
-        pluginClass: SrtFlutterLibsPlugin
-      ios:
+        package: com.opensurce.srt_flutter_libs
         pluginClass: SrtFlutterLibsPlugin
       linux:
         pluginClass: SrtFlutterLibsPlugin
-      macos:
-        pluginClass: SrtFlutterLibsPlugin
-      windows:
-        pluginClass: SrtFlutterLibsPluginCApi
-      web:
-        pluginClass: SrtFlutterLibsWeb
-        fileName: srt_flutter_libs_web.dart
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
