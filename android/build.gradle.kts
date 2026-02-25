@@ -1,4 +1,4 @@
-group = "com.example.srt_flutter_libs"
+group = "com.opensource.srt_flutter_libs"
 version = "1.0-SNAPSHOT"
 
 buildscript {
@@ -27,7 +27,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.srt_flutter_libs"
+    namespace = "com.opensource.srt_flutter_libs"
 
     compileSdk = 36
 

@@ -1,4 +1,4 @@
-package com.example.srt_flutter_libs
+package com.opensource.srt_flutter_libs
 
 import io.flutter.embedding.engine.plugins.FlutterPlugin
 import io.flutter.plugin.common.MethodCall

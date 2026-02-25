@@ -1,4 +1,4 @@
-package com.example.srt_flutter_libs
+package com.opensource.srt_flutter_libs
 
 import io.flutter.plugin.common.MethodCall
 import io.flutter.plugin.common.MethodChannel
