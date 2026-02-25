@@ -272,9 +272,10 @@ packages:
   srt_dart:
     dependency: "direct main"
     description:
-      path: "../srt_dart"
-      relative: true
-    source: path
+      name: srt_dart
+      sha256: f7f5e3f3138612a11d75f9ec671d7dadbc2d4922142a8688d7cc82f4409c5744
+      url: "https://pub.dev"
+    source: hosted
     version: "1.0.0"
   stack_trace:
     dependency: transitive

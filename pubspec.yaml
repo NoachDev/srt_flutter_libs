@@ -1,5 +1,5 @@
 name: srt_flutter_libs
-description: "A new Flutter plugin project."
+description: "A extencion of srt_dart to offer the library libsrt to flutter. And a safe dispose/cleanup in lifecycle of the App "
 version: 1.0.0
 
 environment:
