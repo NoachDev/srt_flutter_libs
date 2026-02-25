@@ -37,7 +37,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.opensurce.srt_flutter_libs
+        package: com.opensource.srt_flutter_libs
         pluginClass: SrtFlutterLibsPlugin
       linux:
         pluginClass: SrtFlutterLibsPlugin
